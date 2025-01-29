@@ -1,0 +1,73 @@
+    1  poweroff
+    2  sudo
+    3  sudo apt update 
+    4  sudo apt upgrade
+    5  sudo apt upgrade --fix-missing
+    6  sudo apt autoremove
+    7  sudo apt autoclean
+    8  sudo reboot
+    9  sudo curl -fsS https://dl.brave.com/intall.sh
+   10  sudo curl -fsS https://dl.brave.com/install.sh | sh
+   11  cd ~/Dowloads
+   12  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   13  sudo cd ~/Downloads
+   14  sudo cd ~/Downloads sudo dpkg -i google-chrome-stable_current_amd64.deb
+   15  sudo apt --fix-broken install -y
+   16  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   17  '/home/senac/Downloads/google-chrome-stable_current_amd64.deb' 
+   18  sudo dpkg -/home/senac/Downloads/google-chrome-stable_current_amd64.deb
+   19  help
+   20  sudo apt update
+   21  sudo apt install chromium-browser -y
+   22  ~sudo apt install chromium-browser -y
+   23  sudo apt install chromium-browser -y
+   24  sudo pacman -S chromium
+   25  sudo dnf install chromium -y
+   26  sudo apt install chromium-browser -y
+   27  Type=X-GNOME-Metatheme
+   28  Name=Vivaldi-ZorinOS
+   29  Comment=black desktop theme  for Zorin OS
+   30  Encoding=UTF-8~Type=X-GNOME-Metatheme
+   31  Name=Vivaldi-ZorinOS
+   32  Comment=black desktop theme  for Zorin OS
+   33  Encoding=UTF-8
+   34  GtkTheme=Vivaldi-ZorinOS
+   35  MetacityTheme=Vivaldi-ZorinOS
+   36  IconTheme=ZorinBlue-Dark
+   37  CursorTheme=Zorin
+   38  ButtonLayout=:minimize,maximize,close
+   39  GtkTheme=Vivaldi-ZorinOS
+   40  MetacityTheme=Vivaldi-ZorinOS
+   41  IconTheme=ZorinBlue-Dark
+   42  CursorTheme=Zorin
+   43  ButtonLayout=:minimize,maximize,close
+   44  sudo apt install linux-oem-24.04b
+   45  sudo reboot
+   46  sudo apt update
+   47  sudo apt install git vim
+   48  sudo apt install appimage
+   49  sudo apt install KolourPaint NotepadQQ VLC Audacity Kazam
+   50  sudo apt update
+   51  sudo apt install kolourpaint~
+   52  sudo apt install kolourpaint
+   53  sudo apt update
+   54  sudo apt install notepadqq vlc audacity kazam
+   55  cd
+   56  cd 
+   57  cd ~/dowloads
+   58  cd ~/Dowloads
+   59  cd ~/Downloads
+   60  chmod +x kdenlive-*.appImage
+   61  chmod +x kdenlive-*.AppImage
+   62  ./kdenlive-*.AppImage
+   63  git
+   64  git gconfig
+   65  git config
+   66  git config --global user.name "Robson Vaamonde"
+   67  git config --global user.email
+   68  exit
+   69  git clone https://github.com/wendelmarcelo/senac-tat
+   70  git config
+   71  git config --list
+   72  git clone https://github.com/wendelmarcelo/senac-tat
+   73  history dd
