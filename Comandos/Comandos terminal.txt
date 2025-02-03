@@ -1,0 +1,40 @@
+ls = comando para listar arquivos e diretorios
+ls -l = comando parar listar arquivos e diretorios em modo lista
+ls -lh= converter de bytes para^ kabytes
+ls -lha = mostrar todos os arquivos ate os ocultos
+
+todo comando azul sao diretorios
+arquivos ou diretorios com ponto na frente sao arquivos ou diretorios ocultos
+
+cd = para mover ou andar sobre os diretorios
+pwd =  mostrar o diretorio corrente que estou no momento
+cd - = voltar para o diretorio anterior
+cd / = voltar para raiz
+cd ~ = voltar para o diretorio pessoal
+mkdir = criar diretorio
+mkdir -v "TAT VIS CAS" = criar varios diretorios ao mesmo tempo "TAT VIS CAS"
+touch "nome do arquivo" = para criar arquivos
+echo "escrita dentro do arquivo" > "senac.txt" = criar arquivos com algo escrito dentro dele
+cat = comando parar visualizar o conteudo dentro dele
+cat -n = comando parar visualizar o conteudo dentro dele em numero de linhas
+head = comando parar listar as 10 primeiras linhas
+head -n"20" = comando para listar a quantidade de linhas que vc quer em numeros do comeco do arquivo
+tail = listar as 10 ultimas linhas de arquivos
+tail -n"20" = comando para listar a quantidade de linhas que vc quer em numeros do final do arquivo
+cat -n | head = separar os comandos com "|" e fazer mais de 1 comando por vez
+
+cat -n "nome do arquivo" | head -n200 | tail -n 101 = comando que listou da linha 100 ate 200
+com as linhas numeradas
+
+VS CODE > history -c = apaga o historico
+
+para salvar todas as mudancas aplique esse codigos no vs code
+
+git pull
+git add .
+git commit -m "atualizacao"
+git push
+
+
+
+
